@@ -1,5 +1,5 @@
 <template>
   <div>
-  about  kkkkkk
+part 2
   </div>
 </template>
